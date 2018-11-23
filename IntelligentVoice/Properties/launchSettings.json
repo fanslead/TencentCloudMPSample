@@ -19,8 +19,8 @@
     "IntelligentVoice": {
       "commandName": "Project",
       "environmentVariables": {
-        "TENCENTCLOUD_SECRET_KEY": "JoMRc4QbrUj7QceYHpGaq23ua5OSPB10",
-        "TENCENTCLOUD_SECRET_ID": "AKIDHtodInYZroGYeaAdmLUuZ4OYpmybIbe1",
+        "TENCENTCLOUD_SECRET_KEY": "",
+        "TENCENTCLOUD_SECRET_ID": "",
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://localhost:5001"
